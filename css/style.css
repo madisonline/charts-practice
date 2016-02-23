@@ -1,0 +1,32 @@
+
+/*
+div {
+	outline: 1px solid red;
+}
+*/
+
+h1 {
+    font-family: Georgia;
+}
+    
+.chart {
+  height: 700px;
+  font-family: Georgia;
+}
+
+.bar-item {
+	display: inline-block;
+	width: 100%;
+}
+
+.bar {
+	background-color: paleturquoise;
+	margin-top: 1px;
+	outline: 1px solid gray;
+	color: white;
+	padding: 4px;
+    height: 20px;
+	
+    
+}
+    
